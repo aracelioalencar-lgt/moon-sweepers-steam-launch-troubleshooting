@@ -1,0 +1,7 @@
+yarn-error.log*
+.cache/
+npm-debug.log*
+.DS_Store
+.next/
+build/
+coverage/
